@@ -1,0 +1,12 @@
+addons.make
+bin
+config.make
+icon.rc
+Makefile
+openFrameworks-infor.plist
+Project.xcconfig
+test.sin
+test.vcxproj
+test.vcxproj.filters
+test.vcproj.user
+testy.xcodeproj
